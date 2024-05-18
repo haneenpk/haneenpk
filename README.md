@@ -83,7 +83,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammed-haneen-558449283?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hadhi-hassan-4a7738284?" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hadhi6880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hadhi6880" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/mohdhaneenpk666/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hadhi6880" height="30" width="40" /></a>
 </p>
 
 ###
