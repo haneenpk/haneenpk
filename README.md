@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on E-commerce application and ELMS<br>👯 I’m looking to collaborate on more projects<br>🌱 I’m currently learning React js and Node js</p>
+<p align="left">Hi there! I'm Muhammed Haneen, a dedicated Full Stack Developer with expertise in the MERN Stack. My passion lies in crafting efficient solutions to complex problems, and I thrive in dynamic environments where innovation is encouraged.
+
+With a keen interest in continuous learning, I completed a rigorous 10-month intensive programming bootcamp where I honed my skills in the MERN stack. Whether it's mastering the latest framework or exploring emerging trends in web development, I'm eager to expand my skill set and stay ahead of the curve.
+
+Currently seeking opportunities to leverage my skills and experience in a collaborative team environment where I can contribute to impactful projects and further enhance my expertise.
+
+Let's connect and explore how we can collaborate to bring ideas to life!</p>
 
 ###
 
