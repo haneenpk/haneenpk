@@ -42,8 +42,8 @@ Full-Stack Developer with **2 years of experience** building production-grade Sa
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haneenpk&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haneenpk&locale=en&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-one-rose-99.vercel.app/api?username=haneenpk&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-one-rose-99.vercel.app/api/top-langs?username=haneenpk&locale=en&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
@@ -52,7 +52,7 @@ Full-Stack Developer with **2 years of experience** building production-grade Sa
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haneenpk&theme=dracula&no-frame=true&row=1&column=7" alt="github trophies" />
+    <img src="https://github-profile-trophy-theta-lovat.vercel.app/?username=haneenpk&theme=dracula&no-frame=true&row=1&column=7" alt="github trophies" />
   </a>
 </div>
 
@@ -62,7 +62,7 @@ Full-Stack Developer with **2 years of experience** building production-grade Sa
 
 **🎥 Hindcast** — self-hosted session replay tool: watch what a real user did before an error hit. Privacy-first by design — inputs are masked in the visitor's browser before anything leaves the page. *TypeScript, Node.js, PostgreSQL*
 
-**🚀 The Crossing** — an interactive cinematic space experience told in seven scroll-driven scenes. *Next.js, React 19, TypeScript, Tailwind CSS v4, GSAP ScrollTrigger, Lenis*
+**🚀 [The Crossing](https://the-crossing-eta.vercel.app)** — an interactive cinematic space experience told in seven scroll-driven scenes. **[Live demo →](https://the-crossing-eta.vercel.app)** *Next.js, React 19, TypeScript, Tailwind CSS v4, GSAP ScrollTrigger, Lenis*
 
 ###
 
