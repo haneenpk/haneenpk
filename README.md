@@ -1,95 +1,76 @@
-<h1 align="center">Hi 👋, I'm  Muhammed Haneen</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Haneen</h1>
+
+<p align="center"><b>Full-Stack Developer</b> · React | Next.js | Node.js | TypeScript</p>
 
 ###
 
-<p align="center">A passionate Mern Stack developer from India</p>
+## 👨‍💻 About me
+
+Full-Stack Developer with **2 years of experience** building production-grade SaaS and enterprise applications. I currently work at **Dignizant Technologies** (Surat, India), where I ship scalable features across the stack — from React, Next.js, Remix and Electron frontends to Node.js services and SQL/NoSQL data layers.
+
+- 🏗️ I care about **clean architecture, SOLID principles, and performance** — code that stays maintainable as the product grows
+- 🤝 Experienced working in large agile teams, collaborating closely with backend and QA engineers
+- 🔄 Day to day: feature development, refactoring, bug hunting, and performance optimization on live products
+- 🌱 Currently going deeper into **TypeScript, PostgreSQL, and AWS**
+- 💬 Happy to talk about the React ecosystem, REST API design, and the MERN stack
+- 🚀 Always **open to exciting opportunities** where I can build impactful products and grow as an engineer
 
 ###
 
-<h2 align="left">About me</h2>
+## 🛠️ Tech stack
 
-###
-
-<p align="left">Hi there! I'm Muhammed Haneen, a dedicated Full Stack Developer with expertise in the MERN Stack. My passion lies in crafting efficient solutions to complex problems, and I thrive in dynamic environments where innovation is encouraged.
-
-With a keen interest in continuous learning, I completed a rigorous 10-month intensive programming bootcamp where I honed my skills in the MERN stack. Whether it's mastering the latest framework or exploring emerging trends in web development, I'm eager to expand my skill set and stay ahead of the curve.
-
-Currently seeking opportunities to leverage my skills and experience in a collaborative team environment where I can contribute to impactful projects and further enhance my expertise.
-
-Let's connect and explore how we can collaborate to bring ideas to life!</p>
-
-###
-
-<h2 align="left">Languages and Tools:</h2>
-
-###
+**Frontend**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,js,tailwind,bootstrap,html,css,electron" height="40" alt="frontend stack" />
+</div>
+
+**Backend & Databases**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,prisma" height="40" alt="backend stack" />
+</div>
+
+**Tools & Platforms**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,aws,nginx,docker,postman,figma,vscode" height="40" alt="tools" />
 </div>
 
 ###
 
-<br clear="both">
+## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanulfariskk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=salmanulfariskk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=haneenpk&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haneenpk&locale=en&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=haneenpk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=haneenpk&theme=dracula&no-frame=true&row=1&column=7" alt="github trophies" />
+  </a>
 </div>
 
 ###
 
-<h2 align="left">how to reach me</h2>
+## 📌 What I'm building
+
+**🎥 Hindcast** — self-hosted session replay tool: watch what a real user did before an error hit. Privacy-first by design — inputs are masked in the visitor's browser before anything leaves the page. *TypeScript, Node.js, PostgreSQL*
+
+**🚀 The Crossing** — an interactive cinematic space experience told in seven scroll-driven scenes. *Next.js, React 19, TypeScript, Tailwind CSS v4, GSAP ScrollTrigger, Lenis*
 
 ###
 
+## 📫 How to reach me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammed-haneen-558449283?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hadhi-hassan-4a7738284?" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/mohdhaneenpk666/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hadhi6880" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/muhammed-haneen-558449283" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/mohdhaneenpk666/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 ###
