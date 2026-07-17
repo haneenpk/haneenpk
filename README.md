@@ -91,6 +91,6 @@ I'm a full-stack developer from Surat, India with 2 years of experience shipping
 ## How to reach me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammed-haneen-558449283" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/mohdhaneenpk666/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/muhammed-haneen-558449283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohdhaneenpk2nd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
