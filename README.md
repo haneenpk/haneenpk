@@ -11,8 +11,8 @@
 I'm a full-stack developer from Surat, India with 2 years of experience shipping production SaaS and enterprise apps at **Dignizant Technologies**. Most of my day is spent between React/Next.js frontends and Node.js services, with regular detours into Remix, Electron and PostgreSQL.
 
 - I care about clean architecture and code that stays maintainable as products grow
-- Comfortable in large agile teams, working closely with backend and QA engineers
-- Currently digging deeper into TypeScript, PostgreSQL and AWS
+- Comfortable owning features end to end — from data model and API design to pixel-perfect UI
+- Currently leveling up in system design and DevOps — CI/CD pipelines, containerized deployments, and architecting for scale
 - Always open to interesting opportunities where I can build things that matter
 
 ## Tech stack
@@ -33,6 +33,7 @@ I'm a full-stack developer from Surat, India with 2 years of experience shipping
   <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" alt="Zustand" />
   <img src="https://img.shields.io/badge/AG_Grid-B32232?style=for-the-badge" alt="AG Grid" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/Yjs-6EAA5E?style=for-the-badge" alt="Yjs" />
   <img src="https://img.shields.io/badge/IndexedDB-2D404E?style=for-the-badge" alt="IndexedDB" />
 </p>
@@ -61,6 +62,7 @@ I'm a full-stack developer from Surat, India with 2 years of experience shipping
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=EF4444" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/Pipedrive-172733?style=for-the-badge&logo=pipedrive&logoColor=white" alt="Pipedrive" />
 </p>
 
 ## GitHub stats
