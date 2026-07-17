@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/lofi-banner.gif" alt="lofi developer at work" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammed Haneen</h1>
 
 <p align="center"><b>Full-Stack Developer</b> · React | Next.js | Node.js | TypeScript</p>
