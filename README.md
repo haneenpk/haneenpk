@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=460&lines=Hi%2C+I%27m+Haneen+%F0%9F%91%8B;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript" alt="Hi, I'm Haneen — Full-Stack Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Haneen+%F0%9F%91%8B;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript" alt="Hi, I'm Haneen — Full-Stack Developer" />
 </div>
 
 ## About me
