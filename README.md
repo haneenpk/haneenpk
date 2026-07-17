@@ -92,5 +92,5 @@ I'm a full-stack developer from Surat, India with 2 years of experience shipping
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammed-haneen-558449283" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:mohdhaneenpk2nd@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" /></a>
+  <a href="mailto:mohdhaneenpk2nd@gmail.com"><img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" alt="Email" height="26" width="40" /></a>
 </p>
